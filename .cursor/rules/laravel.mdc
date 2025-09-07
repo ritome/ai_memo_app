@@ -1,3 +1,17 @@
+## 編集不可ファイル
+
+以下のファイルは読み取り禁止、変更は提案してください。
+
+- `.env`
+- `.env.example`
+
+
+
+
+
+New
+14:57
+laravel.mdc
 ---
 alwaysApply: true
 ---
@@ -60,3 +74,11 @@ alwaysApply: true
   }
 }
 ```
+
+## 多言語化
+- laravel-langから言語ファイルを取得 
+
+
+
+
+
